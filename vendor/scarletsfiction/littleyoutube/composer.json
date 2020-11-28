@@ -1,0 +1,15 @@
+{
+    "name": "scarletsfiction/littleyoutube",
+    "description": "LittleYoutube is a library for retrieving youtube data with PHP script",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "GPL-2.0",
+    "keywords": ["youtube", "php", "library", "littleyoutube"],
+    "autoload": {
+        "classmap": ["src/LittleYoutube.php"]
+    },
+    "authors": [
+        {"name": "StefansArya"}
+    ]
+}

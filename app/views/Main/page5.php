@@ -1,0 +1,1 @@
+<img src="/img/statustika.png" class="w-100 img-fluid" alt="" style="margin-top: -140px;">
